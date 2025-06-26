@@ -5,16 +5,24 @@
             "moreInformation": "Voor dit project kregen we de opdracht om een fellowship socializer game te ontwerpen die zich zou afspelen in het Hefpark. We kozen uiteindelijk voor een spel waarin de speler de rol aanneemt van een jongen die van de professor van het Hefpark zijn eigen Crittermon ontvangt. Met deze Crittermon kan hij door het park reizen en sterker worden door monsters te verslaan die zich daar bevinden.\n\nZodra de Crittermon voldoende ervaring heeft opgedaan, kan de speler de baas van de brug uitdagen. Bij een overwinning worden nieuwe gebieden ontgrendeld, elk met unieke en sterkere monsters. In totaal hebben we drie verschillende gebieden gerealiseerd, elk met een eigen set aan vijanden.\n\nHet gevechtssysteem is turn-based en werkt met een cursor waarmee de speler kan kiezen tussen twee verschillende aanvallen: één aanval doet meer schade maar heeft een lagere kans van slagen, terwijl de andere betrouwbaarder is maar minder schade aanricht. De moeilijkheidsgraad van de monsters verschilt; sommige hebben meer levenspunten en richten meer schade aan. Deze sterkere vijanden leveren in ruil ook meer ervaringspunten op, wat bijdraagt aan de progressie van de Crittermon.\nHoewel het de bedoeling was om een multiplayercomponent en een bijbehorende verhaallijn toe te voegen waarin de achtergrond van de spelwereld werd uitgelegd, is dit wegens tijdgebrek niet volledig gerealiseerd.\n\nHet spel is ontwikkeld in Excalibur.js. Binnen het team heb ik mij voornamelijk gericht op het programmeren van de logica achter het gevechtssysteem en het inladen van de monsters.",
             "animationName": "moveLeftToRight",
             "topOffset": 35,
-            "speed": 6,
+            "speed": 9,
             "image": ["images/2024-06-26 (21).png", "images/2024-06-26 (22).png", "images/2024-06-26 (8).png"]
         },
         {
-            "title": "Project 2",
-            "moreInformation": "Meer informatie over Project 2.",
+            "title": "GoVis",
+            "moreInformation": "Tijdens dit project kregen we de opdracht om een start-up te bedenken met als thema Duurzaam Rotterdam. We bedachten verschillende ideeën rond houtafval, eenzaamheid, straatintimidatie en vissen. Na wat onderzoek kozen we uiteindelijk voor het thema vissen.\n\nWe ontdekten dat de huidige Visplanner-app van Sportvisserij Nederland veel kritiek krijgt en slecht wordt ontvangen. Daarom wilden wij de uitdaging aangaan om een betere en gebruiksvriendelijkere app te ontwikkelen. Ons doel was om het vissen toegankelijker te maken door extra informatie toe te voegen, zoals:\n- welke vissoorten waar te vinden zijn,\n- hoe je ze het beste kunt vangen,\n- en welke methodes het meest duurzaam zijn voor het behoud van vispopulaties.\n\nDaarnaast wilden we ook meer duidelijkheid bieden over de verschillende vispassen die er zijn. De Visplanner-app (of het papieren waterboek van Sportvisserij Nederland) is namelijk verplicht om bij je te hebben, omdat je hiermee kunt aantonen dat je op een bepaalde plek mag vissen.\n\nBinnen dit project heb ik me tijdens het programmeren vooral gefocust op het ontwikkelen van de functionaliteit om locaties en gevangen vissen op te slaan. Wanneer je een vis vangt, kun je via de app een foto maken of een bestaande foto uit je galerij importeren. Daarbij kun je aanvullende gegevens invoeren en deze koppelen aan de visplek waar je de vis gevangen hebt. In de app kun je vervolgens per visplek terugzien welke vissen je daar allemaal hebt gevangen.",
             "animationName": "moveRightToLeft",
             "topOffset": 60,
             "speed": 8,
-            "image": ""
+            "image": "GoVis App Showcase.mp4"
+        },
+        {
+            "title": "Open Hiring",
+            "moreInformation": "Dit project werd ons toegewezen door het bedrijf IOdigital. Zij vroegen ons om een nieuwe website te ontwikkelen voor het concept Open Hiring. Op de huidige website van Open Hiring kun je werkgevers vinden, waarna je wordt doorgestuurd naar hun eigen websites.\n\nWij kozen voor een andere aanpak. Omdat anonimiteit een belangrijk aspect is van Open Hiring, besloten wij een platform te maken dat zowel gericht is op werknemers als werkgevers. In dit model fungeert Open Hiring als een tussenpersoon die beide partijen met elkaar verbindt.\n\nVoor werknemers is er bewust geen gebruik gemaakt van accounts. Wanneer je als werkzoekende een interessante vacature zag, kon je direct solliciteren door je e-mailadres in te vullen. Vervolgens ontving je een e-mail met een link om je sollicitatie te bevestigen.\n\nWerkgevers daarentegen kunnen wel een account aanmaken om vacatures te plaatsen. Als iemand op een vacature solliciteert, blijft de identiteit van de sollicitant onbekend. De werkgever ziet enkel het aantal aanmeldingen per vacature.\n\nWanneer een werkgever besluit mensen aan te nemen, kan hij of zij aangeven hoeveel personen nodig zijn en een datum en tijd kiezen waarop deze personen kunnen langskomen. Vervolgens wordt er automatisch een uitnodiging gestuurd naar de sollicitanten. De sollicitanten worden in volgorde van aanmelding geselecteerd — wie zich het eerst aanmeldt, krijgt als eerste een kans. De uitnodigingsmail bevat de locatie, datum, tijd en verdere relevante informatie over de baan.\n\nTijdens dit project heb ik mij vooral gericht op het programmeren van het aanmeld- en uitnodigproces, inclusief de ontwikkeling van het bijbehorende e-mailsysteem.",
+            "animationName": "moveRightToLeft",
+            "topOffset": 15,
+            "speed": 10,
+            "image": "OpenHiring-Show.mp4"
         }
     ]
 }
