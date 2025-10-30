@@ -26,6 +26,14 @@
             "speed": 10,
             "image": "OpenHiring-Show.mp4",
             "link": "https://github.com/WesleyNederpel/TLE2-Team9"
+        },
+        {
+            "title": "Laravel Voetbal",
+            "moreInformation": "Webapplicatie ontwikkeld met Laravel en Tailwind CSS, gericht op het creëren, beheren en delen van voetbaltactieken en formaties. Gebruikers kunnen inloggen, hun profiel beheren, tactieken en formaties aanmaken, bewerken en verwijderen, en favoriete tactieken opslaan. Dankzij role-based beheer zijn er verschillende toegangsrechten voor gewone gebruikers en beheerders, waarbij beheerders extra functionaliteiten hebben via een aparte admin-interface. De applicatie maakt gebruik van schone Eloquent-modellen voor een overzichtelijke en uitbreidbare database-structuur en Blade-views voor dynamische en herbruikbare pagina’s. Daarnaast zijn er database migraties en seeders voor eenvoudige installatie en testdata. ",
+            "animationName": "moveLeftToRight",
+            "topOffset": 70,
+            "speed": 11,
+            "link": "https://github.com/abelt17/prg5-eindopdracht"
         }
     ]
 }
